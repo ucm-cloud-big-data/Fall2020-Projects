@@ -26,7 +26,7 @@ Presented on 19 and 21 January 2021
 |3 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |4 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |5 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
-|6 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
+|6 | Estudio de la Play Store | Álvaro Casado Molinero, Jesús Sánchez Granado, Sergio Morán Agüero, Daniel Sanz Mayo| [GitHub](https://github.com/Gupo-06-Cloud-2020-21/Trabajo_Playstore), [Website](https://proyectocloudappstore.wordpress.com/) |
 |7 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |8 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |9 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
