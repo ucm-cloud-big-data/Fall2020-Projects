@@ -24,7 +24,7 @@ Presented on 19 and 21 January 2021
 |1 | MovieTrends | Javier Gómez Moraleda, Ramón Arjona Quiñones, Michael Steven Paredes Sánchez | [GitHub](https://github.com/ramonarj/Cloud-BigData), [Website](https://ramonarj.github.io/Cloud-BigData/) |
 |2 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |3 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
-|4 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
+|4 | CovidAnalysis | Javier Guzmán Muñoz, Carla Martínez Nieto-Márquez, Daniel Ledesma Ventura, Pablo Morer Olmos, Gonzalo Fernández Megía | [GitHub](https://github.com/Cloud2020Group4/CovidAnalysis), [Website](https://cloud2020group4.github.io/CovidAnalysis/index.html) |
 |5 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |6 | Estudio de la Play Store | Álvaro Casado Molinero, Jesús Sánchez Granado, Sergio Morán Agüero, Daniel Sanz Mayo| [GitHub](https://github.com/Gupo-06-Cloud-2020-21/Trabajo_Playstore), [Website](https://proyectocloudappstore.wordpress.com/) |
 |7 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
