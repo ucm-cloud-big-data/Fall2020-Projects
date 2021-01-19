@@ -21,7 +21,7 @@ Presented on 19 and 21 January 2021
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-|1 | MovieTrends | Javier Gómez Moraleda, Ramón Arjona Quiñones, Michael Steven Paredes Sánchez | [GitHub](https://github.com/ramonarj/Cloud-BigData), [Website](https://ramonarj.github.io/Cloud-BigData/) |
+|1 | MovieTrends | Javier Gómez Moraleda, Ramón Arjona Quiñones, Michael Steven Paredes Sánchez | [GitHub](https://github.com/ramonarj/Cloud-BigData), [Website](https://ramonarj.github.io/Cloud-BigData/pagina%20web%202.0/index.html) |
 |2 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |3 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |4 | Estudio de la incidencia del Covid-19 en el mundo | Javier Guzmán Muñoz, Carla Martínez Nieto-Márquez, Daniel Ledesma Ventura, Pablo Morer Olmos, Gonzalo Fernández Megía | [GitHub](https://github.com/Cloud2020Group4/CovidAnalysis), [Website](https://cloud2020group4.github.io/CovidAnalysis/index.html) |
