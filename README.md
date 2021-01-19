@@ -27,7 +27,7 @@ Presented on 19 and 21 January 2021
 |4 | Estudio de la incidencia del Covid-19 en el mundo | Javier Guzmán Muñoz, Carla Martínez Nieto-Márquez, Daniel Ledesma Ventura, Pablo Morer Olmos, Gonzalo Fernández Megía | [GitHub](https://github.com/Cloud2020Group4/CovidAnalysis), [Website](https://cloud2020group4.github.io/CovidAnalysis/index.html) |
 |5 | Covid-19 analysis  | Pablo López Martín, Juan Tecedor Roa, Elena Fernández Jiménez | [GitHub](https://github.com/Plopezq/Covid-19-analysis), [Website](https://plopezq.github.io/Covid-19-analysis/index.html) |
 |6 | Estudio de la Play Store | Álvaro Casado Molinero, Jesús Sánchez Granado, Sergio Morán Agüero, Daniel Sanz Mayo| [GitHub](https://github.com/Gupo-06-Cloud-2020-21/Trabajo_Playstore), [Website](https://proyectocloudappstore.wordpress.com/) |
-|7 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
+|7 | Steam Products Data Analysis | Óscar Molano Buitrago, Ricardo Freire Sacco, Cristina Ioana Duduta, Pablo García Grossi, Gonzalo Cidoncha Pérez | [GitHub](https://github.com/GCidon/Steam-Games-Users-Analysis), [Website](https://gcidon.github.io/Steam-Games-Users-Analysis/) |
 |8 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |9 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
 |10 | Vietnam War Bombings Analysis | Robert Farzan Rodríguez, Raquel Pérez Gónzalez de Ossuna, Miguel Robledo Casal | [GitHub](https://github.com/RobertFarzan/Vietnam-War-Bombings-Analysis), [Website](https://robertfarzan.github.io/Vietnam-War-Bombings-Analysis/) |
