@@ -22,7 +22,7 @@ Presented on 19 and 21 January 2021
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
 |1 | MovieTrends | Javier Gómez Moraleda, Ramón Arjona Quiñones, Michael Steven Paredes Sánchez | [GitHub](https://github.com/ramonarj/Cloud-BigData), [Website](https://ramonarj.github.io/Cloud-BigData/pagina%20web%202.0/index.html) |
-|2 | Title | Name1, Name2, Name2, Name4 | [GitHub](https://github.com), [Website](https://project.com) |
+|2 | Spotify Popularity Prediction | Iago Zamorano Chouciño, David Cantador Piedras, Jonathan José Jiménez Jiménez, Begoña Martínez Martín | [GitHub](https://github.com/begomartinezmr/spotify-popularity-prediction), [Website](https://begomartinezmr.github.io/spotify-popularity-study-web/) |
 |3 | USA Elections Analysis | Mario Román Dono, Álvaro Penalva Alberca , Gonzalo Martinez Berzal , Javier I. Sotelino Barriga | [GitHub](https://github.com/WantonFrito/bigdata2020-2021ELECTIONS), [Website](https://wantonfrito.github.io/bigdata2020-2021ELECTIONS/) |
 |4 | Estudio de la incidencia del Covid-19 en el mundo | Javier Guzmán Muñoz, Carla Martínez Nieto-Márquez, Daniel Ledesma Ventura, Pablo Morer Olmos, Gonzalo Fernández Megía | [GitHub](https://github.com/Cloud2020Group4/CovidAnalysis), [Website](https://cloud2020group4.github.io/CovidAnalysis/index.html) |
 |5 | Covid-19 analysis  | Pablo López Martín, Juan Tecedor Roa, Elena Fernández Jiménez | [GitHub](https://github.com/Plopezq/Covid-19-analysis), [Website](https://plopezq.github.io/Covid-19-analysis/index.html) |
